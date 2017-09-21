@@ -97,4 +97,4 @@ To verify the data was entered correctly a final page is displayed containing th
 </td>
 </tr>
 </table>
-This projoct is maintained [<u>here.</u>](https://github.com/mjholt02/babyTrackerUI)
+This project is maintained [<u>here.</u>](https://github.com/mjholt02/babyTrackerUI)

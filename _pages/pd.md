@@ -35,9 +35,9 @@ side of things.
 
 ## MOOCs
 #### Datacamp.com
-* [<u>Writing Functions in R</u>](https://mjholt02.github.io/images/certifications/dc_Rfunctions.pdf) 
-* [<u>Object-Oriented Programming in R: S3 and R6</u>](https://mjholt02.github.io/images/certifications/dc_Roop.pdf) 
-* [<u><i>Reporting with R Markdown</i></u>](https://mjholt02.github.io/images/certifications/dc_rmarkdown.pdf) 
+- Writing Functions in R
+- Object-Oriented Programming in R: S3 and R6
+- Reporting with R Markdown
 #### Edx.org
 #### MVA
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: archive
 title: "Professional Development"
 permalink: /pd/
@@ -35,9 +35,9 @@ side of things.
 
 ## MOOCs
 #### Datacamp.com
-- Writing Functions in R
-- Object-Oriented Programming in R: S3 and R6
-- Reporting with R Markdown
+- Writing Functions in R [<u>certificate</u>](./images/dc_Rfunctions.pdf) 
+- Object-Oriented Programming in R: S3 and R6 [<u>certificate</u>](./images/dc_Roop.pdf) 
+- Reporting with R Markdown [<u>certificate</u>](./images/dc_rmarkdown.pdf) 
 #### Edx.org
 #### MVA
 
